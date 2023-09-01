@@ -10,7 +10,7 @@ This project involves building a QR code component that promotes improving front
 
 ## Links
 
-- [Solution URL](https://github.com/bsrctkk/qr-code-component) 
+- [Solution URL](https://github.com/bsrctkk/qr-code-component-main) 
 
 ## My Process
 
@@ -37,7 +37,7 @@ While completing this challenge, I focused on implementing responsive design tec
 ### Author
 
 - GitHub - (https://github.com/bsrctkk)
-- Frontend Mentor - [@your-username](https://www.frontendmentor.io/profile/bsrctkk)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/bsrctkk)
 
 ### Acknowledgments
 
