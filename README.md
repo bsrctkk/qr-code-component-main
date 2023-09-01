@@ -10,8 +10,7 @@ This project involves building a QR code component that promotes improving front
 
 ## Links
 
-- [Solution URL](https://github.com/bsrctkk/qr-code-component) - GitHub repository of your solution
-- [Live Site URL](https://your-live-site-url.com) - Live preview of your QR code component
+- [Solution URL](https://github.com/bsrctkk/qr-code-component) 
 
 ## My Process
 
